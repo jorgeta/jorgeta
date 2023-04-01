@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jorgeta
 - 👀 I’m interested in complex systems and patterns - visualizing, understanding and predicting data
-- 🌱 I’m currently learning Elasticsearch and Kibana
+- 🌱 I’m currently learning Elasticsearch and improving Python skills
 - 💞️ I’m looking to collaborate on anything that I can learn something new and useful from
 - 📫 [You can reach me on LinkedIn](linkedin.com/in/jorgentaule)
 
